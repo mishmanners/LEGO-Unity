@@ -10,6 +10,10 @@ The best tutorial to start with is [First Game Jam with LEGO](https://www.youtub
 
 LEGO Microgames are published on the [Unity Play platform](https://play.unity.com/). Go check out all the awesome LEGO games. [Get started with Unity](https://store.unity.com/lego-microgame?_ga=2.62865583.2020612240.1612847856-2003228940.1612847856) is where you'll need to go to submit your LEGO Microgame.
 
+During this process, I also discovered [GitHub for Unity](https://unity.github.com/). Check it out today.
+
+![](https://github.com/MishManners/LEGO-Unity/blob/main/9c8296a7-358c-4519-8758-897785ef7e43.jpg)
+
 ## Custom LEGO Microgame
 
 After you've done the tutorial, you'll be able to create your own Microgame.
