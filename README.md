@@ -6,6 +6,8 @@ Creating a game using the free [LEGO Microgame from Unity](https://store.unity.c
 
 If you'd like to learn and use the LEGO Microgame for Unity, check out the [Unity Learn channel](https://learn.unity.com/project/lego-template).
 
+The best tutorial to start with is [First Game Jam with LEGO](https://www.youtube.com/watch?reload=9&v=pq_hjSUbrXs&feature=emb_rel_end&ab_channel=Unity) YouTube tutorial. This is a recording of their livestream tutorial and is run by the Unity team themselves.
+
 LEGO Microgames are published on the [Unity Play platform](https://play.unity.com/). Go check out all the awesome LEGO games.
 
 _To be continued_
