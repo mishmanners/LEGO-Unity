@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: Tutorials
+  m_EditorClassIdentifier: 
+  HeaderBackground: {fileID: 2800000, guid: 5384282a0273144fa9333beb77183cb4, type: 3}
+  Title:
+    m_Untranslated: 3D Platformer
+  ProjectName:
+    m_Untranslated: "LEGO\xAE Microgame"
+  Description:
+    m_Untranslated: "A microgame by LEGO\xAE"
+  ProjectLayout: {fileID: 102900000, guid: f0eaafd05632c354bb04e32e2256b7d8, type: 3}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Get started
+    Text:
+      m_Untranslated: "Playtest the beginning of the LEGO\xAE Microgame and make
+        the character faster."
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 5e302b4ffcdff4c1f8abae277fa3a218, type: 3}
+    Tutorial: {fileID: 11400000, guid: c4343691ae633964ea41a217f2654f7e, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: Add a platform
+    Text:
+      m_Untranslated: 'Get your character to the next island. '
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 88364b018525a4dc280e58fc7e0a8938, type: 3}
+    Tutorial: {fileID: 11400000, guid: c72c35d4cd0bb5d4d9163974a3784a41, type: 2}
+  - OrderInView: 4
+    Heading:
+      m_Untranslated: Activate the elevator
+    Text:
+      m_Untranslated: 'Activate the elevator so the player can access the upper level
+        of the game. '
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 2bd8d75296bef4ccda8176b95d9b920b, type: 3}
+    Tutorial: {fileID: 11400000, guid: 39f364770122f954b8a7e971ec80108b, type: 2}
+  - OrderInView: 6
+    Heading:
+      m_Untranslated: Change the win conditions
+    Text:
+      m_Untranslated: Modify how you win the game!
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 16340f04dba6745518f402d8b1bc0e4b, type: 3}
+    Tutorial: {fileID: 11400000, guid: b7322caa293cb714082e260759ed5330, type: 2}
+  - OrderInView: 8
+    Heading:
+      m_Untranslated: Add an enemy
+    Text:
+      m_Untranslated: Add an enemy to increase the challenge!
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 5743a289af0d446a2a5f4844ddbeab70, type: 3}
+    Tutorial: {fileID: 11400000, guid: 1b142026b642b4d7098b23368d772642, type: 2}
+  - OrderInView: 10
+    Heading:
+      m_Untranslated: Customize your game
+    Text:
+      m_Untranslated: Explore an island and customize your game.
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 75c478339e2eb491683f2f44fdda3179, type: 3}
+    Tutorial: {fileID: 11400000, guid: a7aa8cbccb7714aa3b303c70426b47d2, type: 2}
+  - OrderInView: 12
+    Heading:
+      m_Untranslated: Microgame Mods
+    Text:
+      m_Untranslated: Keep customizing your game by following our online Creative
+        Mods tutorials.
+    LinkText: LEGOMicrogameMods
+    Url: https://learn.unity.com/project/lego-template
+    AuthorizedUrl: 1
+    Image: {fileID: 2800000, guid: d28f696c5c9283a4c9144366065c8519, type: 3}
+    Tutorial: {fileID: 0}
+  - OrderInView: 14
+    Heading:
+      m_Untranslated: Build and publish
+    Text:
+      m_Untranslated: Build and publish your game to share it!
+    LinkText: 
+    Url: 
+    AuthorizedUrl: 0
+    Image: {fileID: 2800000, guid: 62c6103917910485992371e462ec96e3, type: 3}
+    Tutorial: {fileID: 11400000, guid: c122a1a2efeb58349b8154e42481067b, type: 2}
+  - OrderInView: 16
+    Heading:
+      m_Untranslated: Give us feedback
+    Text:
+      m_Untranslated: We're always working to improve our products, so let us know
+        what you think!
+    LinkText: LEGOMicrogameBeta
+    Url: https://unity.com/LEGOMicrogameBeta
+    AuthorizedUrl: 1
+    Image: {fileID: 2800000, guid: caa22bb026fa84979ba1be2779739367, type: 3}
+    Tutorial: {fileID: 0}

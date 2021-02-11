@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1604952552403538517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e1fec86be44c61881dbc60a0ea2c02, type: 3}
+  m_Name: 'Paragraph 3, Criterion 1, 2: Platform (Transform)'
+  m_EditorClassIdentifier: 
+  m_ReferenceHolder: {fileID: 0}
+  m_Criterion: {fileID: -567665902731589267}
+  m_ReferenceName: '2: Platform (Transform)'
+--- !u!114 &-567665902731589267
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd3e7c665e4144f519b7ee9de726ea5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PrefabParent: {fileID: 4452204102140643530, guid: e34f65b5b181cba41b8d90f80c2ed876,
+    type: 3}
+  m_FuturePrefabInstances:
+    m_Items:
+    - m_PrefabParent: {fileID: 4452204102140643530, guid: e34f65b5b181cba41b8d90f80c2ed876,
+        type: 3}
+      m_FutureReference: {fileID: 800968546402330083}
+    - m_PrefabParent: {fileID: 2961934990217567552, guid: e34f65b5b181cba41b8d90f80c2ed876,
+        type: 3}
+      m_FutureReference: {fileID: -1604952552403538517}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
+  m_Name: Obstacle 10
+  m_EditorClassIdentifier: 
+  m_Paragraphs:
+    m_Items:
+    - m_Type: 7
+      Title:
+        m_Untranslated: 
+      Text:
+        m_Untranslated: 
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 2800000, guid: 4f9a661375c1c40bdba5542f860a5d3b, type: 3}
+      m_Video: {fileID: 32900000, guid: 00987ec6e4c956849ad71f9f8e14d071, type: 3}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 1
+        m_UnmaskedViews:
+        - m_SelectorType: 1
+          m_ViewType:
+            m_TypeName: 
+          m_EditorWindowType:
+            m_TypeName: UnityEditor.ProjectBrowser, UnityEditor, Version=0.0.0.0,
+              Culture=neutral, PublicKeyToken=null
+          m_AlternateEditorWindowTypes:
+            m_Items: []
+          m_MaskType: 0
+          m_MaskSizeModifier: 0
+          m_UnmaskedControls: []
+        - m_SelectorType: 1
+          m_ViewType:
+            m_TypeName: 
+          m_EditorWindowType:
+            m_TypeName: UnityEditor.SceneView, UnityEditor, Version=0.0.0.0, Culture=neutral,
+              PublicKeyToken=null
+          m_AlternateEditorWindowTypes:
+            m_Items: []
+          m_MaskType: 0
+          m_MaskSizeModifier: 0
+          m_UnmaskedControls: []
+    - m_Type: 0
+      Title:
+        m_Untranslated: Add a platform
+      Text:
+        m_Untranslated: "First, let\u2019s add a platform to your game.\n\nGo deeper:\n\n\u2022
+          The <b>Project window</b> is where you can find all the files (assets)
+          used for the Unity project.\n\n\u2022 It works like a file explorer, and
+          is organized in folders.\n\n\u2022 You can drag assets straight from the
+          Project window into the Scene view."
+      m_Summary: Add a platform
+      m_Description: "First, let\u2019s add a platform to your game.\n\nGo deeper:\n\n\u2022
+        The <b>Project window</b> is where you can find all the files (assets) used
+        for the Unity project.\n\n\u2022 It works like a file explorer, and is organized
+        in folders.\n\n\u2022 You can drag assets straight from the Project window
+        into the Scene view."
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+    - m_Type: 1
+      Title:
+        m_Untranslated: Drag in a platform
+      Text:
+        m_Untranslated: Select the <b>Platform</b> and drag it into the Scene view.
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: Drag in a platform
+      m_InstructionText: Select the <b>Platform</b> and drag it into the Scene view.
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items:
+        - type:
+            m_TypeName: Unity.InteractiveTutorials.InstantiatePrefabCriterion, Unity.InteractiveTutorials.Core,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          criterion: {fileID: -567665902731589267}
+        - type:
+            m_TypeName: Unity.InteractiveTutorials.ArbitraryCriterion, Unity.InteractiveTutorials.Core,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          criterion: {fileID: 2995509085280323059}
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+  m_CameraSettings:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 3.0209308
+    m_Pivot: {x: 170.09737, y: 18.266623, z: -94.926956}
+    m_Rotation: {x: -0.09202237, y: 0.9064441, z: -0.26120386, w: -0.31897414}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 1
+  NextButton:
+    m_Untranslated: Next
+  DoneButton:
+    m_Untranslated: Done
+  m_NextButton: Next
+  m_DoneButton: Done
+  m_CompletedSound: {fileID: 8300000, guid: 93fbb109633e844259ea828442bda0cb, type: 3}
+  m_autoAdvance: 1
+  m_OnBeforePageShown:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 743fc35f8da11d34ca3ef73a7c5ccdaa, type: 2}
+        m_MethodName: PingFolderOrAsset
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Assets/LEGO/Prefabs/LEGO Models/Stone Structures/Platform.prefab
+          m_BoolArgument: 0
+        m_CallState: 1
+      - m_Target: {fileID: 11400000, guid: 743fc35f8da11d34ca3ef73a7c5ccdaa, type: 2}
+        m_MethodName: DisableBrickBuildingTool
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  m_OnAfterPageShown:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnBeforeTutorialQuit:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnTutorialPageStay:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &800968546402330083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e1fec86be44c61881dbc60a0ea2c02, type: 3}
+  m_Name: 'Paragraph 3, Criterion 1, 1: Platform (GameObject)'
+  m_EditorClassIdentifier: 
+  m_ReferenceHolder: {fileID: 0}
+  m_Criterion: {fileID: -567665902731589267}
+  m_ReferenceName: '1: Platform (GameObject)'
+--- !u!114 &2995509085280323059
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7231e8df50e16c74c979c4a2affab91b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Callback:
+    _target: {fileID: 11400000, guid: 9d534143125290d4a8bd3a06aa687f86, type: 2}
+    _methodName: SelectedObjectIsNotBeingMoved
+    _args: []
+    _dynamic: 0
+    _typeName: Unity.InteractiveTutorials.ArbitraryCriterion+BoolCallback, Unity.InteractiveTutorials.Core,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    dirty: 0
+  m_AutoCompleteCallback:
+    _target: {fileID: 0}
+    _methodName: 
+    _args: []
+    _dynamic: 0
+    _typeName: Unity.InteractiveTutorials.ArbitraryCriterion+BoolCallback, Unity.InteractiveTutorials.Core,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    dirty: 0

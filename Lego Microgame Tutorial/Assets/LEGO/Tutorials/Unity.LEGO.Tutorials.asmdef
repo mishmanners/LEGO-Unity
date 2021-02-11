@@ -1,0 +1,24 @@
+{
+    "name": "Unity.LEGO.Tutorials",
+    "references": [
+        "GUID:149cad238efed4f53ac932b1e9555356",
+        "GUID:dca86c3434c38674a865b8fad7a81c91",
+        "GUID:26d129a9307cf4b01a39c801ffc81958",
+        "GUID:5f4b3bafcdaa4475baf08f13df03ab4b",
+        "GUID:9a7b339fdeab54c54943fc9e40332abf",
+        "GUID:8112c1232fd70408ba74b5d635cbec22",
+        "GUID:794d5795590f62744ae2eab034d026b5",
+        "GUID:fb96225907e8e4c489ebe0f690ba2ecd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

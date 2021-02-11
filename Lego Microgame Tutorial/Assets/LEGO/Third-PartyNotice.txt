@@ -1,0 +1,8 @@
+Asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+A. EmojiOne
+Premium License Agreement
+Version 1.6 - June 21, 2018
+
+B. Catamaran-Bold
+LiberationSans OFL
+Version 1.1 2007

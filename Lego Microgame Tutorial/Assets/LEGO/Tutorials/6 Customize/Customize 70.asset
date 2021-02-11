@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4956188355598524016
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7231e8df50e16c74c979c4a2affab91b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Callback:
+    _target: {fileID: 11400000, guid: 81dad504f100a4f45ae99dffb2536515, type: 2}
+    _methodName: SceneHasBeenSaved
+    _args: []
+    _dynamic: 0
+    _typeName: Unity.InteractiveTutorials.ArbitraryCriterion+BoolCallback, Unity.InteractiveTutorials.Core,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    dirty: 0
+  m_AutoCompleteCallback:
+    _target: {fileID: 11400000, guid: 81dad504f100a4f45ae99dffb2536515, type: 2}
+    _methodName: AutoCompleteSceneSaved
+    _args: []
+    _dynamic: 0
+    _typeName: Unity.InteractiveTutorials.ArbitraryCriterion+BoolCallback, Unity.InteractiveTutorials.Core,
+      Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    dirty: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
+  m_Name: Customize 70
+  m_EditorClassIdentifier: 
+  m_Paragraphs:
+    m_Items:
+    - m_Type: 6
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 2800000, guid: 14c519930009a4438bd904fe28925a05, type: 3}
+      m_Video: {fileID: 32900000, guid: 0c5faad6bcff440bdbbb8b1ff32d5713, type: 3}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 1
+        m_UnmaskedViews: []
+    - m_Type: 0
+      m_Summary: Save your changes
+      m_Description: "Before you continue, take a moment to save your changes."
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+    - m_Type: 1
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: In the top menu, to go <b>File</b> > <b>Save</b>.
+      m_TutorialButtonText: 
+      m_Tutorial: {fileID: 0}
+      m_Icons:
+        m_Items: []
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items:
+        - type:
+            m_TypeName: Unity.InteractiveTutorials.ArbitraryCriterion, Unity.InteractiveTutorials.Core,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          criterion: {fileID: -4956188355598524016}
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+  m_CameraSettings:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 1.2932715
+    m_Pivot: {x: 258.66064, y: 36.829502, z: -126.305466}
+    m_Rotation: {x: -0.0846256, y: -0.8742923, z: 0.16492577, w: -0.4486126}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_NextButton: Next
+  m_DoneButton: Done
+  m_CompletedSound: {fileID: 8300000, guid: 93fbb109633e844259ea828442bda0cb, type: 3}
+  m_autoAdvance: 1
+  m_OnBeforePageShown:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 81dad504f100a4f45ae99dffb2536515, type: 2}
+        m_MethodName: ResetSceneSavedStatus
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+  m_OnAfterPageShown:
+    m_PersistentCalls:
+      m_Calls: []

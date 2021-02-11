@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf7f12643eefb4b4d808df165b776383
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Brick: {instanceID: 0}
+  - m_Audio: {instanceID: 0}
+  - m_SpeechBubblePromptPrefab: {fileID: 2153783478792524732, guid: 8f2336181d72ea740bdf64bb1cd14b33,
+      type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 78f5b3d1a121545ddaeaea70c347811d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
