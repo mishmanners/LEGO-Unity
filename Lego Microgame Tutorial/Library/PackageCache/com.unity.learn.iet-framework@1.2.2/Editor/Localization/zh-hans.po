@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: Tue Nov 17 2020 05:49:12 GMT+0000 (Coordinated Universal Time)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: po-conv\n"
+"Language: zh-Hans\n"
+"Project-Id-Version: 436\n"
+
+#. 23301986
+#: iet-framework.pot:1
+msgid "All Tutorials"
+msgstr "全部教程"
+
+#. 23301987
+#: iet-framework.pot:2
+msgid "Back"
+msgstr "返回"
+
+#. 23301988
+#: iet-framework.pot:3
+msgid "Tutorial: "
+msgstr "教程:"
+
+#. 23301989
+#: iet-framework.pot:4
+msgid "COMPLETED"
+msgstr "已完成"
+
+#. 23301990
+#: iet-framework.pot:5
+msgid "Yes"
+msgstr "是"
+
+#. 23301991
+#: iet-framework.pot:6
+msgid "No"
+msgstr "否"
+
+#. 23301992
+#: iet-framework.pot:7
+msgid "OK"
+msgstr "确定"
+
+#. 23301993
+#: iet-framework.pot:8
+msgid "TUTORIAL"
+msgstr "教程"
+
+#. 23301994
+#: iet-framework.pot:9
+msgid "TUTORIALS"
+msgstr "教程"
+
+#. 23301995
+#: iet-framework.pot:10
+msgid "Tutorials"
+msgstr "教程"
+
+#. 23301996
+#: iet-framework.pot:11
+msgid "Show Tutorials"
+msgstr "显示教程"
+
+#. 23301997
+#: iet-framework.pot:12
+msgid "Return to Tutorials?"
+msgstr "返回教程?"
+
+#. 23301998
+#: iet-framework.pot:13
+msgid "Returning to the Tutorial Selection means exiting the tutorial and losing all of your progress\nDo you wish to continue?"
+msgstr "返回“教程选择”意味着要退出教程，所有进度都会丢失 \n要继续吗？"
+
+#. 23301999
+#: iet-framework.pot:14
+msgid "Close Tutorials"
+msgstr "关闭教程"
+
+#. 23302000
+#: iet-framework.pot:15
+msgid "You can find Tutorials later by choosing {0} in the top menu."
+msgstr "稍后您可以通过选择顶部菜单中的{0}找到教程。"
+
+#. 23302001
+#: iet-framework.pot:16
+msgid "Skip To End"
+msgstr "转到最后"
+
+#. 23302002
+#: iet-framework.pot:17
+msgid "Preview Masking"
+msgstr "预览遮罩显示"
+
+#. 23302003
+#: iet-framework.pot:18
+msgid "Select Tutorial"
+msgstr "选择教程"
+
+#. 23302004
+#: iet-framework.pot:19
+msgid "Select Page"
+msgstr "选择页面"
+
+#. 23302005
+#: iet-framework.pot:20
+msgid "Run Startup Code"
+msgstr "运行启动代码"
+
+#. 23302006
+#: iet-framework.pot:21
+msgid "Localizable string"
+msgstr "本地化字符串"
+
+#. 23302007
+#: iet-framework.pot:22
+msgid "Tutorial Framework"
+msgstr "教程框架"
+
+#. 23302008
+#: iet-framework.pot:23
+msgid "Tutorial Window"
+msgstr "教程窗口"
+
+#. 23302009
+#: iet-framework.pot:24
+msgid "Show info dialog when the window is closed"
+msgstr "窗口关闭时显示信息对话框"
+
+#. 23302010
+#: iet-framework.pot:25
+msgid "Editor Language Change Detected"
+msgstr "检测到编辑器语言更改"
+
+#. 23302011
+#: iet-framework.pot:26
+msgid "It's recommended to restart the Editor for the language change to be applied fully."
+msgstr "建议重新启动编辑器，让语言更改全部生效。"
+
+#. 23302012
+#: iet-framework.pot:27
+msgid "Restart"
+msgstr "重启"
+
+#. 23302013
+#: iet-framework.pot:28
+msgid "Continue without restarting"
+msgstr "继续（不重启）"
+
+#. 23302014
+#: iet-framework.pot:29
+msgid "In-Editor Tutorials"
+msgstr "编辑器内教程"
+
+#. 23302015
+#: iet-framework.pot:30
+msgid "Enable Masking and Highlighting"
+msgstr "启用遮罩和突出显示"
+
+#. 23302016
+#: iet-framework.pot:31
+msgid "Master control for Masking and Highlighting"
+msgstr "遮罩和突出显示的主控件"

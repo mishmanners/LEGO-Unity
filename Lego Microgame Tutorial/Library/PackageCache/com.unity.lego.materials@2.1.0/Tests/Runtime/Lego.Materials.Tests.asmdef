@@ -1,0 +1,11 @@
+{
+    "name": "Lego.Materials.Tests",
+    "references": [
+        "Lego.Materials"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

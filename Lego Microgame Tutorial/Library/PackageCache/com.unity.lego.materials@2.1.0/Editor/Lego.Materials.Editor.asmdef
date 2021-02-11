@@ -1,0 +1,10 @@
+{
+    "name": "Lego.Materials.Editor",
+    "references": [
+      "Lego.Materials"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
