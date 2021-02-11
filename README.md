@@ -8,6 +8,6 @@ If you'd like to learn and use the LEGO Microgame for Unity, check out the [Unit
 
 The best tutorial to start with is [First Game Jam with LEGO](https://www.youtube.com/watch?reload=9&v=pq_hjSUbrXs&feature=emb_rel_end&ab_channel=Unity) YouTube tutorial. This is a recording of their livestream tutorial and is run by the Unity team themselves.
 
-LEGO Microgames are published on the [Unity Play platform](https://play.unity.com/). Go check out all the awesome LEGO games.
+LEGO Microgames are published on the [Unity Play platform](https://play.unity.com/). Go check out all the awesome LEGO games. [Get started with Unity](https://store.unity.com/lego-microgame?_ga=2.62865583.2020612240.1612847856-2003228940.1612847856) is where you'll need to go to submit your LEGO Microgame.
 
 _To be continued_
