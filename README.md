@@ -20,7 +20,7 @@ After you've done the tutorial, you'll be able to create your own Microgame.
 
 This what I created.
 
-Inspired by the [NASA Mission Perserverence Rover landing](https://mars.nasa.gov/mars2020/timeline/landing/entry-descent-landing/) on my birthday, we decided to create a Mars-themed LEGO microgame.
+Inspired by the [NASA Mission Perseverance Rover landing](https://mars.nasa.gov/mars2020/timeline/landing/entry-descent-landing/) on my birthday, we decided to create a Mars-themed LEGO microgame.
 
 Explore the world of Mars and save the rover.
 
@@ -28,4 +28,4 @@ Don't forget, you're on Mars, so there's less gravity than on Earth. How will yo
 
 #### Would love to do
 
-Import the [Mars Perserverence Rover model](https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/) into the game.
+Import the [Mars Perseverance Rover model](https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/) into the game.
