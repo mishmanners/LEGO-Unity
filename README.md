@@ -26,6 +26,6 @@ Explore the world of Mars and save the rover, just don't die in the process.
 
 Don't forget, you're on Mars, so there's less gravity than on Earth. How will you explore this planet?
 
-#### Would love to do
+#### Would love to do:
 
 Import the [Mars Perseverance Rover model](https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/) into the game.
