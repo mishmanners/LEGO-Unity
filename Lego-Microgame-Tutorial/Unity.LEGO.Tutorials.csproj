@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3B6E96B2-BD35-205C-E9EE-9725BE0A0B43}</ProjectGuid>
+    <ProjectGuid>{C9A83369-BF80-955E-30FE-81F9E800F96D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.LEGO.Tutorials</AssemblyName>
@@ -264,25 +264,25 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Api.45">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Logging">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Unity.45">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.UnityShim">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
     </Reference>
     <Reference Include="System.IO.Compression.FileSystem">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/PackageCache/com.unity.connect.share@4.1.0/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/PackageCache/com.unity.connect.share@4.1.0/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Users/miche/OneDrive/Variant X/Unity/2019.4.4f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -639,44 +639,44 @@
       <HintPath>C:/Users/miche/OneDrive/Variant X/Unity/2019.4.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Play.Publisher.Editor">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
     </Reference>
     <Reference Include="LEGO.ModelImporter">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/LEGO.ModelImporter.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/LEGO.ModelImporter.dll</HintPath>
     </Reference>
     <Reference Include="LEGO.ModelImporter.Editor">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/LEGO.ModelImporter.Editor.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/LEGO.ModelImporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego Microgame Tutorial/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/LEGO-Unity/Lego-Microgame-Tutorial/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.LEGO.Behaviours.csproj">
-      <Project>{980518F9-49FB-43E9-62EE-895D797F37A7}</Project>
+      <Project>{868D830E-D340-A489-AB2F-5F18037DD79E}</Project>
       <Name>Unity.LEGO.Behaviours</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.LEGO.Minifig.csproj">
-      <Project>{D6EAABCD-E07B-7FBD-AB94-FF4BC4F0FAF7}</Project>
+      <Project>{F9A83CEE-9BDA-B157-B447-E421639B719D}</Project>
       <Name>Unity.LEGO.Minifig</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.LEGO.Editor.csproj">
-      <Project>{3A5259E2-A3B9-06AF-1DC4-9ECC3B85B78A}</Project>
+      <Project>{4C71E210-B570-17A2-E633-4D81A556C952}</Project>
       <Name>Unity.LEGO.Editor</Name>
     </ProjectReference>
   </ItemGroup>
