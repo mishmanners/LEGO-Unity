@@ -37,3 +37,8 @@ Don't forget, you're on Mars, so there's less gravity than on Earth. How will yo
 #### Would love to do:
 
 Import the [Mars Perseverance Rover model](https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/) into the game. However this is copyright material and would need permission, and therefore against the terms and conditions of the LEGO Microgame contest.
+
+#### Credits
+
+The beautiful background, chiptune music comes from the amazingly talented [Patrick De Arteaga](https://patrickdearteaga.com/). Check out his website for more info and download your chiptunes.
+
