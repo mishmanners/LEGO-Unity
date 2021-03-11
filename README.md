@@ -13,7 +13,7 @@ LEGO Microgames are published on the [Unity Play platform](https://play.unity.co
 During this process, I also discovered [GitHub for Unity](https://unity.github.com/). Check it out today.
 EDIT: apparently GitHub Unity is no longer in development as GitHub Deskop is widely available. Download [GitHub Desktop](https://desktop.github.com/) and easily see your file changes, commit, push, and deploy your code.
 
-![](https://github.com/MishManners/LEGO-Unity/blob/main/9c8296a7-358c-4519-8758-897785ef7e43.jpg)
+![](https://github.com/MishManners/LEGO-Unity/blob/main/github-desktop.jpg)
 
 ## Custom LEGO Microgame
 
