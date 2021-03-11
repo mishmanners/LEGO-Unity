@@ -28,10 +28,8 @@ Explore the world of Mars, collect all the chests containing the tools to fix th
 Don't forget, you're on Mars, so there's less gravity than on Earth. How will you explore this planet?
 
 **To dos:**
-- Get touch trigger controls working
 - Build out environment more
-- Make it so crystals are the key to winnings (then chests are 100% completion)
-- Fix up hierarchy
+- Change the stickers on the left hand objectives menu
 - Package and deploy
 
 #### Would love to do:
