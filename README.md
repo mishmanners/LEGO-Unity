@@ -23,7 +23,7 @@ This what I created.
 
 Inspired by the [NASA Mission Perseverance Rover landing](https://mars.nasa.gov/mars2020/timeline/landing/entry-descent-landing/) on my birthday, we decided to create a Mars-themed LEGO microgame.
 
-Explore the world of Mars and save the rover, just don't die in the process.
+Explore the world of Mars, collect all the chests containing the tools to fix the rover, and make your way to the next level.
 
 Don't forget, you're on Mars, so there's less gravity than on Earth. How will you explore this planet?
 
