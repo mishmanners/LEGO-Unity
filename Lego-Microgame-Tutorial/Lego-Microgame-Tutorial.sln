@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Minifig", "Unity.LEGO.Minifig.csproj", "{F9A83CEE-9BDA-B157-B447-E421639B719D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LEGO.Behaviours", "Unity.LEGO.Behaviours.csproj", "{868D830E-D340-A489-AB2F-5F18037DD79E}"
