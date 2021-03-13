@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40104ba21a444d642a8dc6350cb662fe, type: 3}
+  m_Name: TutorialCallbacks
+  m_EditorClassIdentifier: 
+  PlayerMinifigName: Player Minifig
+  MaxForwardSpeed: 6
+  DeletionCriteria: {fileID: 11400000, guid: 31338fd9a07036246bc9cc31f5b52517, type: 2}
+  futurePlatformInstance: {fileID: 800968546402330083, guid: a606c510bbc3fe4458c056edb5280c69,
+    type: 2}
+  SceneViewCameraSettingsForPlayground:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 12.424109
+    m_Pivot: {x: 8.556542, y: 3.266386, z: 9.863172}
+    m_Rotation: {x: 0.18940854, y: -0.31976962, z: 0.06540243, w: 0.9260653}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 1

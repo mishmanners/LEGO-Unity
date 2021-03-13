@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: 2 Obstacle
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: Add a platform
+  m_TutorialTitle: 
+  m_LessonId: 50002
+  m_Version: 2
+  m_Scene: {fileID: 102900000, guid: c117ceea613454843a1d1c28c25d7a94, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 1
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 4.812312
+    m_Pivot: {x: 248.4876, y: 4.461054, z: -48.28814}
+    m_Rotation: {x: 0.029914264, y: -0.83418053, z: 0.04546169, w: 0.54881287}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 1
+  m_ExitBehavior: 1
+  m_SkipTutorialBehavior: 0
+  m_AssetSelectedOnExit: {fileID: 11400000, guid: 977fb762f450240fd9006b8153a0f534,
+    type: 2}
+  m_WelcomePage: {fileID: 0}
+  m_CompletedPage: {fileID: 0}
+  m_WindowLayout: {fileID: 102900000, guid: afc248b65cc1ac84292f9d102326128d, type: 3}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 97742ed53fe221b4f997846ac398a3b1, type: 2}
+    - {fileID: 11400000, guid: a606c510bbc3fe4458c056edb5280c69, type: 2}
+    - {fileID: 11400000, guid: d6a44519eaceafd46ac2f8d533a80d16, type: 2}
+    - {fileID: 11400000, guid: e68944fe26f7a814cb52c050abde65ed, type: 2}
+    - {fileID: 11400000, guid: 6abc0687cc409b543a6b6ef9694f0c93, type: 2}
+    - {fileID: 11400000, guid: c8caece402d087441bb325c32d5ae372, type: 2}
+    - {fileID: 11400000, guid: 8606934034130154bb094192cc35339c, type: 2}
+    - {fileID: 11400000, guid: fa9cb932cfa5236499dff16127113e74, type: 2}
+    - {fileID: 11400000, guid: 39f806c198534aa46a8d53ad42c5bdab, type: 2}
+    - {fileID: 11400000, guid: 0ef2aab63b7337a49bf754b13ea39540, type: 2}
+    - {fileID: 11400000, guid: 6227fbbf43307a14a83d057d89b323d8, type: 2}

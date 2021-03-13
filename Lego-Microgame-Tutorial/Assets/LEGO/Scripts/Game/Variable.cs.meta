@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4816ce2e8f1bd80409a59d985213255a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UIPrefab: {fileID: 8322339850511969721, guid: 1e390fdd61cd5fd43ba3755270f39a9a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

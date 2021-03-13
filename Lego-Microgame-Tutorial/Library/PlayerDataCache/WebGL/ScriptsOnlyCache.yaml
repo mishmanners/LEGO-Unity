@@ -1,0 +1,1831 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Cinemachine.dll:
+    - Cinemachine.CinemachineBrain
+    - Cinemachine.CinemachineCollider
+    - Cinemachine.CinemachineComposer
+    - Cinemachine.CinemachineFreeLook
+    - Cinemachine.CinemachineOrbitalTransposer
+    - Cinemachine.CinemachinePipeline
+    - Cinemachine.CinemachineVirtualCamera
+    GitHub.Unity.45.dll:
+    - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.EnvironmentCache
+    - GitHub.Unity.GitAheadBehindCache
+    - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitStatusCache
+    - GitHub.Unity.RepositoryInfoCache
+    LEGO.ModelImporter.dll:
+    - LEGOModelImporter.Brick
+    - LEGOModelImporter.ConnectionField
+    - LEGOModelImporter.Connectivity
+    - LEGOModelImporter.Knob
+    - LEGOModelImporter.LEGOBrickAsset
+    - LEGOModelImporter.LEGOComponentsEnforcer
+    - LEGOModelImporter.LEGOMinifigAsset
+    - LEGOModelImporter.LEGOModelAsset
+    - LEGOModelImporter.LEGOModelGroupAsset
+    - LEGOModelImporter.Model
+    - LEGOModelImporter.ModelGroup
+    - LEGOModelImporter.ParentChecker
+    - LEGOModelImporter.Part
+    - LEGOModelImporter.ScaleChecker
+    - LEGOModelImporter.Tube
+    Unity.InteractiveTutorials.Core.dll:
+    - Unity.InteractiveTutorials.ActiveToolCriterion
+    - Unity.InteractiveTutorials.AnalyticsHelper
+    - Unity.InteractiveTutorials.ArbitraryCriterion
+    - Unity.InteractiveTutorials.BuildStartedCriterion
+    - Unity.InteractiveTutorials.EditorWindowCriterion
+    - Unity.InteractiveTutorials.FutureObjectReference
+    - Unity.InteractiveTutorials.InstantiatePrefabCriterion
+    - Unity.InteractiveTutorials.PlayModeStateCriterion
+    - Unity.InteractiveTutorials.PropertyModificationCriterion
+    - Unity.InteractiveTutorials.RequiredSelectionCriterion
+    - Unity.InteractiveTutorials.Tutorial
+    - Unity.InteractiveTutorials.TutorialContainer
+    - Unity.InteractiveTutorials.TutorialPage
+    - Unity.InteractiveTutorials.TutorialProjectSettings
+    - Unity.InteractiveTutorials.TutorialStyles
+    - Unity.InteractiveTutorials.TutorialWelcomePage
+    - Unity.InteractiveTutorials.TutorialWindow
+    Unity.LEGO.Behaviours.dll:
+    - Unity.LEGO.Behaviours.Actions.ElevatorAction
+    - Unity.LEGO.Behaviours.Actions.ExplodeAction
+    - Unity.LEGO.Behaviours.Actions.HoverAction
+    - Unity.LEGO.Behaviours.Actions.LookAtAction
+    - Unity.LEGO.Behaviours.Actions.PickupAction
+    - Unity.LEGO.Behaviours.Actions.ShootAction
+    - Unity.LEGO.Behaviours.Actions.WinAction
+    - Unity.LEGO.Behaviours.BrickColliderCombiner
+    - Unity.LEGO.Behaviours.BrickExploder
+    - Unity.LEGO.Behaviours.BrickMeshCombiner
+    - Unity.LEGO.Behaviours.LEGOBehaviourCoroutineManager
+    - Unity.LEGO.Behaviours.MinifigCollider
+    - Unity.LEGO.Behaviours.MinifigInputManager
+    - Unity.LEGO.Behaviours.Projectile
+    - Unity.LEGO.Behaviours.Triggers.NearbyTrigger
+    - Unity.LEGO.Behaviours.Triggers.PickupTrigger
+    - Unity.LEGO.Behaviours.Triggers.TouchTrigger
+    Unity.LEGO.Game.dll:
+    - Unity.LEGO.Game.GameFlowManager
+    - Unity.LEGO.Game.InputManager
+    - Unity.LEGO.Game.ObjectiveManager
+    Unity.LEGO.Gameplay.dll:
+    - Unity.LEGO.Gameplay.GroundHazard
+    Unity.LEGO.Minifig.dll:
+    - Unity.LEGO.Minifig.Minifig
+    - Unity.LEGO.Minifig.MinifigController
+    - Unity.LEGO.Minifig.MinifigFaceAnimationController
+    - Unity.LEGO.Minifig.SpecialAnimationBehavior
+    Unity.LEGO.Tutorials.dll:
+    - Unity.LEGO.Tutorials.BuildingCriteria
+    - Unity.LEGO.Tutorials.DeletionCriteria
+    - Unity.LEGO.Tutorials.PublishCriteria
+    - Unity.LEGO.Tutorials.SaveSceneCriteria
+    - Unity.LEGO.Tutorials.TutorialCallbacks
+    Unity.LEGO.UI.dll:
+    - Unity.LEGO.UI.CustomButton
+    - Unity.LEGO.UI.FrameRateCounter
+    - Unity.LEGO.UI.GameOverFade
+    - Unity.LEGO.UI.LoadSceneButton
+    - Unity.LEGO.UI.MenuNavigation
+    - Unity.LEGO.UI.Objective
+    - Unity.LEGO.UI.ObjectiveHUDManager
+    - Unity.LEGO.UI.OptionsMenuManager
+    - Unity.LEGO.UI.Screenshot
+    - Unity.LEGO.UI.UIAnimator
+    - Unity.LEGO.UI.UIAudio
+    - Unity.LEGO.UI.VariableHUDManager
+    Unity.LEGO.Utilities.dll:
+    - Unity.LEGO.Utilities.Rotate
+    Unity.Play.Publisher.Editor.dll:
+    - Unity.Play.Publisher.Editor.AnalyticsHelper
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.VerticalLayoutGroup
+  sceneClasses:
+    Assets/LEGO/Scenes/Menu Intro.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11322}
+    - Class: 114
+      Script: {instanceID: 11326}
+    - Class: 114
+      Script: {instanceID: 11328}
+    - Class: 114
+      Script: {instanceID: 11330}
+    - Class: 114
+      Script: {instanceID: 11690}
+    - Class: 114
+      Script: {instanceID: 11702}
+    - Class: 114
+      Script: {instanceID: 11996}
+    - Class: 114
+      Script: {instanceID: 12738}
+    - Class: 114
+      Script: {instanceID: 13204}
+    - Class: 114
+      Script: {instanceID: 13406}
+    - Class: 114
+      Script: {instanceID: 13736}
+    - Class: 114
+      Script: {instanceID: 13824}
+    - Class: 114
+      Script: {instanceID: 14144}
+    - Class: 114
+      Script: {instanceID: 14414}
+    - Class: 114
+      Script: {instanceID: 14456}
+    - Class: 114
+      Script: {instanceID: 14474}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/LEGO/Scenes/Menu Lose.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11322}
+    - Class: 114
+      Script: {instanceID: 11326}
+    - Class: 114
+      Script: {instanceID: 11328}
+    - Class: 114
+      Script: {instanceID: 11330}
+    - Class: 114
+      Script: {instanceID: 11690}
+    - Class: 114
+      Script: {instanceID: 11702}
+    - Class: 114
+      Script: {instanceID: 11996}
+    - Class: 114
+      Script: {instanceID: 12738}
+    - Class: 114
+      Script: {instanceID: 13204}
+    - Class: 114
+      Script: {instanceID: 13406}
+    - Class: 114
+      Script: {instanceID: 13736}
+    - Class: 114
+      Script: {instanceID: 13824}
+    - Class: 114
+      Script: {instanceID: 14144}
+    - Class: 114
+      Script: {instanceID: 14414}
+    - Class: 114
+      Script: {instanceID: 14456}
+    - Class: 114
+      Script: {instanceID: 14474}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/LEGO/Scenes/Menu Win.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11322}
+    - Class: 114
+      Script: {instanceID: 11326}
+    - Class: 114
+      Script: {instanceID: 11328}
+    - Class: 114
+      Script: {instanceID: 11330}
+    - Class: 114
+      Script: {instanceID: 11690}
+    - Class: 114
+      Script: {instanceID: 11702}
+    - Class: 114
+      Script: {instanceID: 11996}
+    - Class: 114
+      Script: {instanceID: 12738}
+    - Class: 114
+      Script: {instanceID: 13204}
+    - Class: 114
+      Script: {instanceID: 13406}
+    - Class: 114
+      Script: {instanceID: 13736}
+    - Class: 114
+      Script: {instanceID: 13824}
+    - Class: 114
+      Script: {instanceID: 14144}
+    - Class: 114
+      Script: {instanceID: 14414}
+    - Class: 114
+      Script: {instanceID: 14456}
+    - Class: 114
+      Script: {instanceID: 14474}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Percy on Mars.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11322}
+    - Class: 114
+      Script: {instanceID: 11324}
+    - Class: 114
+      Script: {instanceID: 11326}
+    - Class: 114
+      Script: {instanceID: 11328}
+    - Class: 114
+      Script: {instanceID: 11330}
+    - Class: 114
+      Script: {instanceID: 11344}
+    - Class: 114
+      Script: {instanceID: 11366}
+    - Class: 114
+      Script: {instanceID: 11470}
+    - Class: 114
+      Script: {instanceID: 11504}
+    - Class: 114
+      Script: {instanceID: 11516}
+    - Class: 114
+      Script: {instanceID: 11594}
+    - Class: 114
+      Script: {instanceID: 11702}
+    - Class: 114
+      Script: {instanceID: 11822}
+    - Class: 114
+      Script: {instanceID: 11848}
+    - Class: 114
+      Script: {instanceID: 11862}
+    - Class: 114
+      Script: {instanceID: 11866}
+    - Class: 114
+      Script: {instanceID: 11886}
+    - Class: 114
+      Script: {instanceID: 11914}
+    - Class: 114
+      Script: {instanceID: 11996}
+    - Class: 114
+      Script: {instanceID: 12092}
+    - Class: 114
+      Script: {instanceID: 12096}
+    - Class: 114
+      Script: {instanceID: 12130}
+    - Class: 114
+      Script: {instanceID: 12242}
+    - Class: 114
+      Script: {instanceID: 12262}
+    - Class: 114
+      Script: {instanceID: 12322}
+    - Class: 114
+      Script: {instanceID: 12336}
+    - Class: 114
+      Script: {instanceID: 12500}
+    - Class: 114
+      Script: {instanceID: 12620}
+    - Class: 114
+      Script: {instanceID: 12638}
+    - Class: 114
+      Script: {instanceID: 12642}
+    - Class: 114
+      Script: {instanceID: 12698}
+    - Class: 114
+      Script: {instanceID: 12738}
+    - Class: 114
+      Script: {instanceID: 12740}
+    - Class: 114
+      Script: {instanceID: 12774}
+    - Class: 114
+      Script: {instanceID: 12868}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 12938}
+    - Class: 114
+      Script: {instanceID: 12950}
+    - Class: 114
+      Script: {instanceID: 13048}
+    - Class: 114
+      Script: {instanceID: 13062}
+    - Class: 114
+      Script: {instanceID: 13084}
+    - Class: 114
+      Script: {instanceID: 13140}
+    - Class: 114
+      Script: {instanceID: 13164}
+    - Class: 114
+      Script: {instanceID: 13204}
+    - Class: 114
+      Script: {instanceID: 13296}
+    - Class: 114
+      Script: {instanceID: 13346}
+    - Class: 114
+      Script: {instanceID: 13360}
+    - Class: 114
+      Script: {instanceID: 13402}
+    - Class: 114
+      Script: {instanceID: 13406}
+    - Class: 114
+      Script: {instanceID: 13422}
+    - Class: 114
+      Script: {instanceID: 13444}
+    - Class: 114
+      Script: {instanceID: 13502}
+    - Class: 114
+      Script: {instanceID: 13526}
+    - Class: 114
+      Script: {instanceID: 13540}
+    - Class: 114
+      Script: {instanceID: 13558}
+    - Class: 114
+      Script: {instanceID: 13632}
+    - Class: 114
+      Script: {instanceID: 13654}
+    - Class: 114
+      Script: {instanceID: 13736}
+    - Class: 114
+      Script: {instanceID: 13824}
+    - Class: 114
+      Script: {instanceID: 13872}
+    - Class: 114
+      Script: {instanceID: 14074}
+    - Class: 114
+      Script: {instanceID: 14090}
+    - Class: 114
+      Script: {instanceID: 14200}
+    - Class: 114
+      Script: {instanceID: 14316}
+    - Class: 114
+      Script: {instanceID: 14352}
+    - Class: 114
+      Script: {instanceID: 14378}
+    - Class: 114
+      Script: {instanceID: 14414}
+    - Class: 114
+      Script: {instanceID: 14420}
+    - Class: 114
+      Script: {instanceID: 14438}
+    - Class: 114
+      Script: {instanceID: 14456}
+    - Class: 114
+      Script: {instanceID: 14462}
+    - Class: 114
+      Script: {instanceID: 14474}
+    - Class: 114
+      Script: {instanceID: 14510}
+    - Class: 114
+      Script: {instanceID: 14520}
+    - Class: 114
+      Script: {instanceID: 14526}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 143
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Minifig.dll
+    namespaceName: Unity.LEGO.Minifig
+    className: SpecialAnimationBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: f4a66ba9d9062845553e62e3d60b5c47
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Triggers
+    className: PickupTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 23d669c8bf2983ca4a3df160658318a6
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineStateDrivenCamera
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b4fc42b020df4b67385e61ff21d513cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 2edd6fa5e0a807b372f2dc740de75d92
+    assemblyName: Unity.LEGO.Minifig.dll
+    namespaceName: Unity.LEGO.Minifig
+    className: Minifig
+  - hash:
+      serializedVersion: 2
+      Hash: e4cd90e58e716782b28ba1d59434e2f5
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Triggers
+    className: InputTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 1289ab55a87325ba634ab7362cd16507
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: WinAction
+  - hash:
+      serializedVersion: 2
+      Hash: 4b8724a1039a435a875fd048bbc37f6c
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: Brick
+  - hash:
+      serializedVersion: 2
+      Hash: a2113831d3323f931007e1b3812dc814
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFollowZoom
+  - hash:
+      serializedVersion: 2
+      Hash: d227987243593b32ae57394d06018643
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFixedSignal
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: BrickColliderCombiner
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: af56f77a30c1a2da1680c736a6f5c6e8
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: GroupWeightManipulator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.InteractiveTutorials.Core.Scripts.dll
+    namespaceName: Unity.InteractiveTutorials
+    className: SelectionRoot
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 66a76d307baa3e8eb65d877c961f1b43
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineRecomposer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: d91fcd9ac7bd86d3d771dd6171620fad
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: LoadSceneButton
+  - hash:
+      serializedVersion: 2
+      Hash: 32fce7b97c39bff4b4f6c0f53f7e6bf1
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineCollisionImpulseSource
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 234d407605354852c48e57df17c9a1c6
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: MovementTracker
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 6dd3dc11942e98c0a809c81f95fc960c
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineExternalCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 76b4d7a83b68050e179fc6fe3001e4b7
+    assemblyName: Unity.LEGO.Game.dll
+    namespaceName: Unity.LEGO.Game
+    className: GameFlowManager
+  - hash:
+      serializedVersion: 2
+      Hash: b5eb08b578a2f2d80bb106cbe65ab501
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineStoryboard
+  - hash:
+      serializedVersion: 2
+      Hash: 3ef55e4ec09299b7a323b1e13927da7f
+    assemblyName: Unity.LEGO.Utilities.dll
+    namespaceName: Unity.LEGO.Utilities
+    className: BuildSettingsDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 201515e88ba21c38d159e1e447ee364a
+    assemblyName: Unity.LEGO.Game.dll
+    namespaceName: Unity.LEGO.Game
+    className: InputManager
+  - hash:
+      serializedVersion: 2
+      Hash: b7c0e7dd314f52944b3080c984f6ac7d
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: LEGOMinifigAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: cbae2ed2d2d53cc8f539e7cb4f29bc1f
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineCameraOffset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: dd552fb09018c93960df0d8a3c4dd0ae
+    assemblyName: Unity.LEGO.Minifig.dll
+    namespaceName: Unity.LEGO.Minifig
+    className: MinifigFaceAnimationController
+  - hash:
+      serializedVersion: 2
+      Hash: ebf7f51c752ea803c81cee73850749d7
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: Tube
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.InteractiveTutorials.Core.Scripts.dll
+    namespaceName: Unity.InteractiveTutorials
+    className: CollisionBroadcaster3D
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 1103fb0758976355cdf9b7d5ce9cb7e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 5a782990b0623d0a6d34cb1cffd986a1
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: ConnectionField
+  - hash:
+      serializedVersion: 2
+      Hash: 666a1bc8d46f314c018ffaaa3f6628d1
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFreeLook
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 376e40726b50c3594908e5388b90faf2
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: ShootAction
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: f5ef408662d4be69d89de1afd90cdf4b
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Triggers
+    className: RandomTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine.PostFX
+    className: CinemachinePostProcessing
+  - hash:
+      serializedVersion: 2
+      Hash: 8963690ef6f6b05ce03bfd8b5c26e20c
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: NoiseSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 7f34c0a3503a0b351324a63e7a77c032
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: SpeakAction
+  - hash:
+      serializedVersion: 2
+      Hash: e4b5cce25985ac238bef964bd2ba0e46
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: SensoryCollider
+  - hash:
+      serializedVersion: 2
+      Hash: 72aa0d55e000d8c1e92a65b5607a7d8b
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: ElevatorAction
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: ScaleChecker
+  - hash:
+      serializedVersion: 2
+      Hash: 5f170942ee57c7a568f5bcfc7521adea
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: EnumerableTestState
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: MinifigCollider
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineTrack
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 611bc970ee9dc090779a3fac6a18fac6
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineFramingTransposer
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 72aa0d55e000d8c1e92a65b5607a7d8b
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: PlatformAction
+  - hash:
+      serializedVersion: 2
+      Hash: 37de53a49708b087da4050fc1ca7a6ee
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePOV
+  - hash:
+      serializedVersion: 2
+      Hash: 5d30c50b269c4c872945e5fad1cf0415
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: Screenshot
+  - hash:
+      serializedVersion: 2
+      Hash: 694537a6413d05906632f85a9f0afa2a
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: BrickExploder
+  - hash:
+      serializedVersion: 2
+      Hash: b7c0e7dd314f52944b3080c984f6ac7d
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: LEGOBrickAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 2ce2187bbae6f802011f568630bd3d1f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineOrbitalTransposer
+  - hash:
+      serializedVersion: 2
+      Hash: 5826f68a069f59e7c5cfa8ace9963b5c
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: ControlAction
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: e920c1e8f72941c40b81f86a3fa56835
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: InputPrompt
+  - hash:
+      serializedVersion: 2
+      Hash: 962dd9fbac8ddc9d3799b4c7e0de604c
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: Connectivity
+  - hash:
+      serializedVersion: 2
+      Hash: 7ca765ad7969aae95e8011264b9c4046
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTriggerAction
+  - hash:
+      serializedVersion: 2
+      Hash: 4e6aab1d819be14cec5ab52788e3e4e7
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: LookAtAction
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 5e647ed705795e2890dd5485691981b8
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: CustomButton
+  - hash:
+      serializedVersion: 2
+      Hash: bd543bad7f9f6262f10595aadb130d22
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineComposer
+  - hash:
+      serializedVersion: 2
+      Hash: 082126d032cc22804037f26289a7068a
+    assemblyName: Unity.InteractiveTutorials.Core.Scripts.dll
+    namespaceName: 
+    className: SceneObjectGUIDComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: LEGOBehaviourCoroutineManager
+  - hash:
+      serializedVersion: 2
+      Hash: 15882a52798c275361cd0a3ada984ec5
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineDollyCart
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 204ea02909ea3f738dafe3ff633d2a93
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTrackedDolly
+  - hash:
+      serializedVersion: 2
+      Hash: b37643d20251b3a294dc4623f3103f1e
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: HoverAction
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePipeline
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: MovementCollider
+  - hash:
+      serializedVersion: 2
+      Hash: 6323d56ef27cf336070646fa4e6f1726
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Triggers
+    className: CounterTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: b32135b94663645b0e5e403b6d276885
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: Objective
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Gameplay.dll
+    namespaceName: Unity.LEGO.Gameplay
+    className: GroundHazard
+  - hash:
+      serializedVersion: 2
+      Hash: 694d20920c0e41f567e119f7159a3644
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePath
+  - hash:
+      serializedVersion: 2
+      Hash: abf94b8e4f03f69e5812b83bfe4918f1
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: FrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 6027b56e21449d69455bb74a49b0e698
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: RotateAction
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: MinifigInputManager
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 56df1fa7cea034df9863fe5a24200a32
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTargetGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 0f382b4f4c12ae6e42368df10b3c5de1
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: Objective
+  - hash:
+      serializedVersion: 2
+      Hash: 1289ab55a87325ba634ab7362cd16507
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: LoseAction
+  - hash:
+      serializedVersion: 2
+      Hash: 7d21b4a797916d10797302cb120f6e8b
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: AliveAction
+  - hash:
+      serializedVersion: 2
+      Hash: 018c974d5abed358470a0b63799b28e6
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: PickupAction
+  - hash:
+      serializedVersion: 2
+      Hash: 39342f615bce8b1864d7be8f5f83c129
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: Model
+  - hash:
+      serializedVersion: 2
+      Hash: 72aa0d55e000d8c1e92a65b5607a7d8b
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: MoveAction
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 7c792393fb82488bd20139dcc5ba26d8
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineTransposer
+  - hash:
+      serializedVersion: 2
+      Hash: b391480bcb0275d9206e6a5c3bcf3eec
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: AudioAction
+  - hash:
+      serializedVersion: 2
+      Hash: 58efee6b55938a3513a010c3be820624
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI.SpeechBubbles
+    className: Think
+  - hash:
+      serializedVersion: 2
+      Hash: a66794b62dbf044668a5f102bb7908c2
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineImpulseListener
+  - hash:
+      serializedVersion: 2
+      Hash: f277f47704f345b1d016102023213baf
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Triggers
+    className: TouchTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: e6d75f1a9bc0c6f7085df0baa077e688
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineGroupComposer
+  - hash:
+      serializedVersion: 2
+      Hash: dbfb4270852b0008a423a7418d9de4cf
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineSameAsFollowTarget
+  - hash:
+      serializedVersion: 2
+      Hash: 4a639215e29265dd99e4fed19e3fa9f4
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBlendListCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: BrickMeshCombiner
+  - hash:
+      serializedVersion: 2
+      Hash: b7c0e7dd314f52944b3080c984f6ac7d
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: LEGOModelGroupAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f64fd37da5cb89243ec68b5026d70bb8
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: b639d97cb780d0d99a2bfb3ad1935732
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineMixingCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: eeb356fa33eec10332ebc7e468fecb95
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineShot
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: df21ffd1864551a3e43410f28754a73e
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineConfiner
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 48be63c2d78a61f213d44d8570685887
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Triggers
+    className: TimerTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 61a690401240000664c8ef5684e9db1b
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: Knob
+  - hash:
+      serializedVersion: 2
+      Hash: 1e3d6222ff533d213aab144eb854a53b
+    assemblyName: Cinemachine.dll
+    namespaceName: 
+    className: CinemachineTouchInputMapper
+  - hash:
+      serializedVersion: 2
+      Hash: 86ae99dc44a23a154135a44009b45fe7
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI.SpeechBubbles
+    className: Talk
+  - hash:
+      serializedVersion: 2
+      Hash: 13776bd18aab75aff0de4eed618b76ff
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI.SpeechBubbles
+    className: Yell
+  - hash:
+      serializedVersion: 2
+      Hash: df76de5fb2b27007d514fdb38b91cf89
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineVirtualCamera
+  - hash:
+      serializedVersion: 2
+      Hash: c7005032b602bb7aa09320eda38a5e23
+    assemblyName: Unity.LEGO.Utilities.dll
+    namespaceName: Unity.LEGO.Utilities
+    className: BuildSettings
+  - hash:
+      serializedVersion: 2
+      Hash: b7c0e7dd314f52944b3080c984f6ac7d
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: LEGOModelAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a3d815e1827d717bbe65d9708fd89c6c
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: ObjectiveHUDManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1eadb1669c4b4af02c86fc25a67cb99f
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: GameOverFade
+  - hash:
+      serializedVersion: 2
+      Hash: fbbd265b25e9e1ca6f2239720780ca1e
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours
+    className: Projectile
+  - hash:
+      serializedVersion: 2
+      Hash: a66794b62dbf044668a5f102bb7908c2
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineIndependentImpulseListener
+  - hash:
+      serializedVersion: 2
+      Hash: c385c28c02028202386da40a292b26d3
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: OptionsMenuManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: PromptPlacementHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 6225eb0973ab0af667bc5f9d1b1b18de
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineCollider
+  - hash:
+      serializedVersion: 2
+      Hash: bd50beb95120324d8c4e8386692b6e82
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBlenderSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 23066ceca838af0cf02e00e3cf5155c1
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineImpulseSource
+  - hash:
+      serializedVersion: 2
+      Hash: 6939772cb3ce775a8e8d99f332534491
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine.PostFX
+    className: CinemachineVolumeSettings
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 540b4caabc71c0ce33530415b7498954
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: Variable
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 6ff1c52123c50b3d73f35cd0e2e65dfd
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineSmoothPath
+  - hash:
+      serializedVersion: 2
+      Hash: 53d9923114b87ac6b483fdd7e2ec2c44
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Triggers
+    className: NearbyTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineHardLookAt
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineInputProvider
+  - hash:
+      serializedVersion: 2
+      Hash: 50cce61fbfa477241470a35b536df099
+    assemblyName: Unity.LEGO.Utilities.dll
+    namespaceName: Unity.LEGO.Utilities
+    className: MeshCombiner
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Controls
+    className: Hovercraft
+  - hash:
+      serializedVersion: 2
+      Hash: f371d5880d9c566403b699254b26c116
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: SpeechBubblePrompt
+  - hash:
+      serializedVersion: 2
+      Hash: b7c0e7dd314f52944b3080c984f6ac7d
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: LEGOAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ffd3ed4fcd23b3e7745287c99a637247
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: Cinemachine3rdPersonAim
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 018c974d5abed358470a0b63799b28e6
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: HazardAction
+  - hash:
+      serializedVersion: 2
+      Hash: 5e84370a36252d6aa37d6a7bd37710f7
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: Cinemachine3rdPersonFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: LEGOComponentsEnforcer
+  - hash:
+      serializedVersion: 2
+      Hash: 91376314b1b668d838ca868c05dfa7da
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI.SpeechBubbles
+    className: InformationSign
+  - hash:
+      serializedVersion: 2
+      Hash: 01d3574007e6ae393429cb86953bb9b1
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: CounterAction
+  - hash:
+      serializedVersion: 2
+      Hash: 50813d4743c3aa813cb5a9c26bbe551a
+    assemblyName: Unity.LEGO.Utilities.dll
+    namespaceName: Unity.LEGO.Utilities
+    className: Rotate
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Controls
+    className: Aircraft
+  - hash:
+      serializedVersion: 2
+      Hash: e1c9af7601f7f7f38c6ab5deb582d139
+    assemblyName: Unity.LEGO.Game.dll
+    namespaceName: Unity.LEGO.Game
+    className: Variable
+  - hash:
+      serializedVersion: 2
+      Hash: 92e8366caed306594e54039fcd2bd6e8
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: VariableHUDManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8f15c253902ff4eef507927669b9dc80
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachinePixelPerfect
+  - hash:
+      serializedVersion: 2
+      Hash: 4ccfa34185834c4565acd661f210a1c9
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: ModelGroup
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 3bf9228cbbbf1c1beea91d3b4a0b9eda
+    assemblyName: Unity.LEGO.Minifig.dll
+    namespaceName: Unity.LEGO.Minifig
+    className: MinifigController
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.InteractiveTutorials.Core.Scripts.dll
+    namespaceName: Unity.InteractiveTutorials
+    className: CollisionBroadcaster2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 1351a1bf2c4086539cf0063006375478
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBrain
+  - hash:
+      serializedVersion: 2
+      Hash: 9726bc46e15d44429bd38fb013657f1e
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: dbfb4270852b0008a423a7418d9de4cf
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineHardLockToTarget
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: ParentChecker
+  - hash:
+      serializedVersion: 2
+      Hash: b5c3dbcb94925c8b595ad16a62b44788
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineBasicMultiChannelPerlin
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: UIAudio
+  - hash:
+      serializedVersion: 2
+      Hash: 2792936179724025482dc04d68a47ca7
+    assemblyName: Cinemachine.dll
+    namespaceName: Cinemachine
+    className: CinemachineClearShot
+  - hash:
+      serializedVersion: 2
+      Hash: 3a83a15c56bd107dd701a32299c5f014
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: UIAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: d2833113bb9b23e770b838e75833ed4b
+    assemblyName: Unity.LEGO.UI.dll
+    namespaceName: Unity.LEGO.UI
+    className: MenuNavigation
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 8b7e44cbe3793ba53bd5f26b768c6491
+    assemblyName: Unity.LEGO.Behaviours.dll
+    namespaceName: Unity.LEGO.Behaviours.Actions
+    className: ExplodeAction
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.LEGO.Game.dll
+    namespaceName: Unity.LEGO.Game
+    className: ObjectiveManager
+  - hash:
+      serializedVersion: 2
+      Hash: fe18de891b8b024bb8668857a3695a06
+    assemblyName: LEGO.ModelImporter.dll
+    namespaceName: LEGOModelImporter
+    className: Part
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 20
+  scenePathNames:
+  - Assets/Percy on Mars.unity
+  - Assets/LEGO/Scenes/Menu Intro.unity
+  - Assets/LEGO/Scenes/Menu Win.unity
+  - Assets/LEGO/Scenes/Menu Lose.unity
+  playerPath: C:/Users/miche/OneDrive/Documents/git-repos/LEGO-Unity/Lego-Microgame-Tutorial/WebGL
+    Builds

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e2119edf0740942a580dbfaa6725e30b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Brick: {instanceID: 0}
+  - m_Audio: {fileID: 8300000, guid: d70e96c66975a4723a2a230c42ce2ca2, type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 78f5b3d1a121545ddaeaea70c347811d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

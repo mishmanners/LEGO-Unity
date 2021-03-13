@@ -1,0 +1,15 @@
+{
+    "name": "LEGO.ModelImporter",
+    "references": [
+        "GUID:9a3ef6486335f43c4bea98e036b10e37"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
