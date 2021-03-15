@@ -19,7 +19,7 @@ EDIT: apparently GitHub Unity is no longer in development as GitHub Deskop is wi
 
 After you've done the tutorial, you'll be able to create your own Microgame.
 
-[This what I created](https://play.unity.com/mg/other/webgl-builds-24967) you can play it now!
+[This what I created](https://play.unity.com/mg/other/webgl-builds-24967). Give it a play now!
 
 Inspired by the [NASA Mission Perseverance Rover landing](https://mars.nasa.gov/mars2020/timeline/landing/entry-descent-landing/) on my birthday, we decided to create a Mars-themed LEGO microgame.
 
