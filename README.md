@@ -30,7 +30,9 @@ Don't forget, you're on Mars, so there's less gravity than on Earth. How will yo
 **To dos:**
 - Build out environment more
 - Change the stickers on the left hand objectives menu
-- Package and deploy
+- Clean up a couple of the prefabs
+- Unlink menu so you can interact with it
+- Ensure the camera doesn't move when the menu is up
 
 #### Would love to do:
 
