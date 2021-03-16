@@ -15,7 +15,7 @@ EDIT: apparently GitHub Unity is no longer in development as GitHub Deskop is wi
 
 ![](https://github.com/MishManners/LEGO-Unity/blob/main/Unity%20and%20Lego%20Images/github-desktop.jpg)
 
-## Custom LEGO Microgame
+## 🧱 Custom LEGO Microgame
 
 After you've done the tutorial, you'll be able to create your own Microgame.
 
@@ -33,13 +33,15 @@ Don't forget, you're on Mars, so there's less gravity than on Earth. How will yo
 
 ![](https://github.com/MishManners/LEGO-Unity/blob/main/Screenshots/Jump.jpg)
 
-## Credits
+## 🥂 Credits
 
 The beautiful background, chiptune **music** comes from the amazingly talented [Patrick De Arteaga](https://patrickdearteaga.com/). Check out his website for more info and download your chiptunes.
 
 Thanks to the Unity team and LEGO Ideas team for tuning into my [Unity Twitch streams](https://www.twitch.tv/videos/946127617), for putting on the competition, for great tutorials, and answering questions!
 
-## Next Steps
+Special shout out to all the people in [my Twitch chat](https://twitch.tv/MishManners) for their support, coding knowledge, and debugging work, especially to those who tested the game before I deployed it. You're all amazing ❤️
+
+## ✨ Next Steps
 
 **To dos:**
 - Build out environment more
@@ -49,7 +51,7 @@ Thanks to the Unity team and LEGO Ideas team for tuning into my [Unity Twitch st
 - Unlink menu so you can interact with it
 - Ensure the camera doesn't move when the menu is up
 
-#### Would love to do:
+**Would love to do:**
 
 Import the [Mars Perseverance Rover model](https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/) into the game. However this is copyright material and would need permission, and therefore against the terms and conditions of the LEGO Microgame contest.
 
