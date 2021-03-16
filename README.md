@@ -25,12 +25,15 @@ Inspired by the [NASA Mission Perseverance Rover landing](https://mars.nasa.gov/
 
 Explore the world of Mars, collect all the chests containing the tools to fix the rover, and make your way to the next level.
 
+There's a bug in the WebGL version, where in order to remove the first pop up menu, you'll need to click "TAB" and then you can click "Let's go" to start playing the game.
+
 Don't forget, you're on Mars, so there's less gravity than on Earth. How will you explore this planet?
 
 **To dos:**
 - Build out environment more
 - Change the stickers on the left hand objectives menu
-- Clean up a couple of the prefabs
+- Clean up a couple of the prefabs (ie. 1st treasure chest, collectable on top of the skull tower)
+- Modify some of the platforms for easy jumping
 - Unlink menu so you can interact with it
 - Ensure the camera doesn't move when the menu is up
 
