@@ -21,13 +21,25 @@ After you've done the tutorial, you'll be able to create your own Microgame.
 
 [This what I created](https://play.unity.com/mg/other/webgl-builds-24967). Give it a play now!
 
+![](https://github.com/MishManners/LEGO-Unity/blob/main/Screenshots/Running.jpg)
+
 Inspired by the [NASA Mission Perseverance Rover landing](https://mars.nasa.gov/mars2020/timeline/landing/entry-descent-landing/) on my birthday, we decided to create a Mars-themed LEGO microgame.
 
 Explore the world of Mars, collect all the chests containing the tools to fix the rover, and make your way to the next level.
 
 There's a bug in the WebGL version, where in order to remove the first pop up menu, you'll need to click "TAB" and then you can click "Let's go" to start playing the game.
 
-Don't forget, you're on Mars, so there's less gravity than on Earth. How will you explore this planet?
+Don't forget, you're on Mars, so there's less gravity than on Earth. How will you explore this planet? Hint: double jumps might come in handy.
+
+![](https://github.com/MishManners/LEGO-Unity/blob/main/Screenshots/Jump.jpg)
+
+## Credits
+
+The beautiful background, chiptune **music** comes from the amazingly talented [Patrick De Arteaga](https://patrickdearteaga.com/). Check out his website for more info and download your chiptunes.
+
+Thanks to the Unity team and LEGO Ideas team for tuning into my [Unity Twitch streams](https://www.twitch.tv/videos/946127617), for putting on the competition, for great tutorials, and answering questions!
+
+## Next Steps
 
 **To dos:**
 - Build out environment more
@@ -41,7 +53,5 @@ Don't forget, you're on Mars, so there's less gravity than on Earth. How will yo
 
 Import the [Mars Perseverance Rover model](https://mars.nasa.gov/resources/25042/mars-perseverance-rover-3d-model/) into the game. However this is copyright material and would need permission, and therefore against the terms and conditions of the LEGO Microgame contest.
 
-#### Credits
 
-The beautiful background, chiptune music comes from the amazingly talented [Patrick De Arteaga](https://patrickdearteaga.com/). Check out his website for more info and download your chiptunes.
 
