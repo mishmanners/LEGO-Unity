@@ -1,1 +1,3 @@
-Screenshots taken for the game.
+### Screenshots
+
+Here are some of the screenshots taken from the game trailer.
